@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nili-photographer-8c7923da.zappy5.app/sitemap.xml

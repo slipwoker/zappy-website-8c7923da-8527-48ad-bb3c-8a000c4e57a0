@@ -1,0 +1,59 @@
+# nili photographer — Generative Engine Optimization Map
+
+> A photography business.
+
+---
+
+## Pages
+
+### Home
+https://nili-photographer-8c7923da.zappy5.app
+Expert destination wedding photographer creating timeless memories. Book your photography session today for weddings, families, and events.
+
+### Services
+https://nili-photographer-8c7923da.zappy5.app/services
+Professional photography services including destination weddings, elopements, newborn sessions, and family portraits. Discover packages tailored to your needs.
+
+### About
+https://nili-photographer-8c7923da.zappy5.app/about
+Meet Nili, an award-winning destination wedding photographer and elopement specialist passionate about capturing authentic moments and timeless memories.
+
+### Contact
+https://nili-photographer-8c7923da.zappy5.app/contact
+Contact Nili Photographer to book your destination wedding, elopement, or newborn photography session. Serving clients worldwide with professional photography services.
+
+## Legal & Policy
+
+### Privacy Policy
+https://nili-photographer-8c7923da.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://nili-photographer-8c7923da.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://nili-photographer-8c7923da.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About nili photographer
+nili photographer is a business in the photography industry.
+
+## Target Audience
+- Engaged Couples Seeking Wedding Photography
+- Family Memory Creators
+- Corporate Event Planners
+
+## Industry
+photography
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://nili-photographer-8c7923da.zappy5.app/sitemap.xml
+- **Robots.txt**: https://nili-photographer-8c7923da.zappy5.app/robots.txt
